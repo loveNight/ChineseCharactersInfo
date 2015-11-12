@@ -6,7 +6,7 @@
 有两种思路：
 
 1. 简体与繁体字的对应表。
-2. 汉字编码对应表。简体GBK编码 <---> Unicode编码 <---> 繁体字BIG5编码。[VC----实现汉字简繁转换](http://blog.csdn.net/yf210yf/article/details/7850472)
+2. 汉字编码对应表。简体GBK编码 <===> Unicode编码 <===> 繁体字BIG5编码。[VC----实现汉字简繁转换](http://blog.csdn.net/yf210yf/article/details/7850472)
 
 
 
