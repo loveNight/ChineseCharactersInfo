@@ -4,7 +4,7 @@
 
 ## 已搜集数据
 
-### [Pinyin.dat](/data/Pinyin.dat)
+### 1. [Pinyin.dat](/data/Pinyin.dat)
 
 汉字与拼音的对应表，格式如下：
 
@@ -20,7 +20,7 @@
 
 第一列是十六进制的Unicode编码，第二列是拼音+声调，多个发音用空格隔开
 
-### [Simple&Traditional.dat](/data/Simple&Traditional.dat)
+### 2. [Simple&Traditional.dat](/data/Simple&Traditional.dat)
 
 简繁体字、词的对应表，单字部分同时包含了 `简:繁` 和 `繁:简`，如：
 
