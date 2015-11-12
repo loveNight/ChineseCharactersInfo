@@ -42,7 +42,7 @@
     ....隔了N行...
     "堊": "垩",
 
-### [字符的不同编码](\data\encode\)
+### [字符的不同编码](\data\encode)
 
 有PDF、Word、Excel文件。
 
