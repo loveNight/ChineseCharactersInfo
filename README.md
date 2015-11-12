@@ -42,11 +42,11 @@
     ....隔了N行...
     "堊": "垩",
 
-### [字符的不同编码](\data\encode)
+### [字符的不同编码](/data/encode/)
 
 有PDF、Word、Excel文件。
 
-Excel文件是[汉字的GB18030与Unicode编码.xls](\data\encode\汉字的GB18030与Unicode编码.xls)，内容如下：
+Excel文件是[汉字的GB18030与Unicode编码.xls](/data/encode/汉字的GB18030与Unicode编码.xls)，内容如下：
 
 |汉字|GBK(GB18030)编码|Unicode编码|
 |---|---|---|
